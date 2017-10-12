@@ -1,0 +1,11 @@
+# Ignore all directories and files except git related
+/*
+!.gitignore
+
+# Include:
+## Library/Library.xlsx
+## Library/ReadMe.txt
+!Library/
+Library/*
+!Library/Library.xlsx
+!Library/ReadMe.txt
