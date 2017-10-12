@@ -9,3 +9,33 @@
 Library/*
 !Library/Library.xlsx
 !Library/ReadMe.txt
+
+## Meetings/Meetings.xlsx
+## Meetings/ReadMe.txt
+!Meetings/
+Meetings/*
+!Meetings/Meetings.xlsx
+!Meetings/ReadMe.txt
+
+## Organizations/Organizations.xlsx
+## Organizations/ReadMe.txt
+!Organizations/
+Organizations/*
+!Organizations/Organizations.xlsx
+!Organizations/ReadMe.txt
+
+## Photos/utils/
+## Photos/Corr Eng Photos
+## Photos/Photos.xlsx
+## Photos.xlsx.pass.txt
+## Photos/ReadMe.txt
+!Photos/
+Photos/*
+!Photos/utils/
+!Photos/Corr Eng Photos
+!Photos/Photos.xlsx
+!Photos.xlsx.pass.txt
+!Photos/ReadMe.txt
+
+## Web Resources/
+!Web Resources/

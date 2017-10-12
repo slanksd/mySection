@@ -1,0 +1,1 @@
+This directory is administrated by Spencer Lank.
