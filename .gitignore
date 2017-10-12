@@ -3,6 +3,14 @@
 !.gitignore
 
 # Include:
+
+# 8 - Training Materials/Internal/git
+!8 - Training Materials/
+8 - Training Materials/*
+!8 - Training Materials/Internal/
+8 - Training Materials/Internal/*
+!8 - Training Materials/Internal/git
+
 ## Library/Library.xlsx
 ## Library/ReadMe.txt
 !Library/
