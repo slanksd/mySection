@@ -4,7 +4,10 @@
 
 # Include:
 
-# 8 - Training Materials/Internal/git
+## Staff Schedules.xlsx
+!Staff Schedules.xlsx
+
+## 8 - Training Materials/Internal/git
 !8 - Training Materials/
 8 - Training Materials/*
 !8 - Training Materials/Internal/
