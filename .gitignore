@@ -14,6 +14,12 @@
 8 - Training Materials/Internal/*
 !8 - Training Materials/Internal/git
 
+## Equipment
+### PT878
+!Equipment/
+Equipment/*
+!PT878/
+
 ## Library/Library.xlsx
 ## Library/ReadMe.txt
 !Library/
