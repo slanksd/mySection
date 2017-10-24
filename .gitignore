@@ -53,5 +53,12 @@ Photos/*
 !Photos.xlsx.pass.txt
 !Photos/ReadMe.txt
 
+## Technologies/Technologies.xlsx
+## Technologies/ReadMe.txt
+!Technologies/
+Technologies/*
+!Technologies/Technologies.xlsx
+!Technologies/ReadMe.txt
+
 ## Web Resources/
 !Web Resources/
