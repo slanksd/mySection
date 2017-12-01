@@ -11,6 +11,8 @@ pipelineDirs = waterPipelines
 
 
 def createShortcut( target="", shortcutPath="", icon_location="" ):
+	if os.path.exists( target ) == False:
+		print("WARNING: path: " + target + " does not exist.")
 	with winshell.shortcut( shortcutPath ) as shortcut:
 		shortcut.lnk_filepath = shortcutPath
 		shortcut.path = target
@@ -68,8 +70,9 @@ def getReports():
 	from reports import reports
 	for keyName in reports:
 		report = reports[ keyName ]
-		for waterPipelineDir in report["Water Pipeline Directory"]:
-			shortcutName = report["BuildFileName"]
+		print("...for " + keyName + "...")
+		for waterPipelineDir in report["Water Pipelines"]:
+			shortcutName = report["Publication Year"] + " " + report["BuildFileName"]
 			target = report["Path"]
 			shortcutPath = buildDirectory + "\\" + waterPipelineDir + "\\Reports\\" + shortcutName + ".lnk"
 			icon_location = report["Path"]
@@ -101,7 +104,7 @@ def deleteEmptyDirectories():
 	
 
 makePipelineDirectories()
-getImprovementDrawings()
+#getImprovementDrawings()
 getReports()
 # delete empty subdirectories in pipeline directories
 deleteEmptyDirectories()
