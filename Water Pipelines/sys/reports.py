@@ -19,7 +19,7 @@ reports = {
 			"Montgomery",
 			"Murray 1st",
 			"Murray 2nd",
-			"Otay Mesa Bonita Connection",
+			"Otay Mesa-Bonita Connection",
 			"Penasquitos",
 			"Pershing Street",
 			"Rancho Bernardo",
