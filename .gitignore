@@ -66,10 +66,12 @@ Technologies/*
 !Technologies/ReadMe.txt
 
 ## Water Pipelines/Water Pipelines.xlsx
+## Water Pipelines/sys
 !Water Pipelines/
 Water Pipelines/*
 !Water Pipelines/Water Pipelines.xlsx
 !Water Pipelines/Water Pipelines.xlsx.pass
+!Water Pipelines/sys
 
 ## Web Resources/
 !Web Resources/
