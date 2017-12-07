@@ -4,14 +4,9 @@ from wastewater_pump_stations import wastewaterPumpStations
 from improvement_drawings import improvementDrawings
 from reports import reports
 
-buildDirectory = r"Y:\EPM\CondAssess\Water Pipelines"
+sectionDirectory = r"Y:\EPM\CondAssess"
 improvementDrawingDirectory = r"Y:\EPM\CondAssess\Improvement Drawings\By No"
 WATER_PIPELINE_DRAWING_DIRECTORY_NAME = "Drawings"
-
-pipelineDirs = waterPipelines
-
-
-
 
 def createShortcut( target="", shortcutPath="", icon_location="" ):
 	if os.path.exists( target ) == False:
@@ -21,19 +16,11 @@ def createShortcut( target="", shortcutPath="", icon_location="" ):
 		shortcut.path = target
 		shortcut.icon_location = (icon_location,0)
 		shortcut.write( shortcutPath )
-		#print(shortcut.lnk_filepath)
-	'''
-	winshell.CreateShortcut(
-		Path = shortcutPath,
-		Target = target,
-		Icon = ( icon_location, 0 )
-	)
-	'''
 
-def makePipelineDirectories():
-	print("Making water pipeline directories...")
-	for waterPipeline in waterPipelines:
-		path = buildDirectory + "\\" + waterPipeline
+def makeFacilityDirectories( facilities, buildDirectory ):
+	print("Making facility folders...")
+	for facility in facilities:
+		path = buildDirectory + "\\" + facility
 		if os.path.isdir( path ) == False:
 			os.mkdir( path )
 
@@ -67,26 +54,45 @@ def getImprovementDrawings():
 		
 		#print(drawingList)
 
-def getReports():
+def getReports( facilities ):
 	print("Updating report shortcuts...")
 	for keyName in reports:
 		report = reports[ keyName ]
 		print("...for " + keyName + "...")
-		for waterPipelineDir in report["Water Pipelines"]:
-			shortcutName = report["Publication Year"] + " " + report["BuildFileName"]
-			target = report["Path"]
-			shortcutPath = buildDirectory + "\\" + waterPipelineDir + "\\Reports\\" + shortcutName + ".lnk"
-			icon_location = report["Path"]
-			if os.path.isdir(buildDirectory + "\\" + waterPipelineDir) == False:
-				print(waterPipelineDir + " is not a directory.")
-				next
-			if os.path.isdir(buildDirectory + "\\" + waterPipelineDir + "\\Reports") == False:
-				os.mkdir( buildDirectory + "\\" + waterPipelineDir + "\\Reports" )
-			createShortcut( 
-				target=target, 
-				shortcutPath=shortcutPath,
-				icon_location=icon_location
-			)
+		if "Water Pipelines" in report.keys():
+			for facility in report["Water Pipelines"]:
+				buildDirectory = sectionDirectory + "\\Water Pipelines"
+				shortcutName = report["Publication Year"] + " " + report["BuildFileName"]
+				target = report["Path"]
+				shortcutPath = buildDirectory + "\\" + facility + "\\Reports\\" + shortcutName + ".lnk"
+				icon_location = report["Path"]
+				if os.path.isdir(buildDirectory + "\\" + facility) == False:
+					print(facility + " is not a directory.")
+					next
+				if os.path.isdir(buildDirectory + "\\" + facility + "\\Reports") == False:
+					os.mkdir( buildDirectory + "\\" + facility + "\\Reports" )
+				createShortcut( 
+					target=target, 
+					shortcutPath=shortcutPath,
+					icon_location=icon_location
+				)
+		if "Wastewater Pump Stations" in report.keys():		
+			for facility in report["Wastewater Pump Stations"]:
+				buildDirectory = sectionDirectory + "\\Wastewater Pump Stations"
+				shortcutName = report["Publication Year"] + " " + report["BuildFileName"]
+				target = report["Path"]
+				shortcutPath = buildDirectory + "\\" + facility + "\\Reports\\" + shortcutName + ".lnk"
+				icon_location = report["Path"]
+				if os.path.isdir(buildDirectory + "\\" + facility) == False:
+					print(facility + " is not a directory.")
+					next
+				if os.path.isdir(buildDirectory + "\\" + facility + "\\Reports") == False:
+					os.mkdir( buildDirectory + "\\" + facility + "\\Reports" )
+				createShortcut( 
+					target=target, 
+					shortcutPath=shortcutPath,
+					icon_location=icon_location
+				)
 
 def deleteEmptyDirectories():
 	print("Deleting empty subdirectories...")
@@ -104,8 +110,8 @@ def deleteEmptyDirectories():
 
 	
 
-makePipelineDirectories()
-getImprovementDrawings()
-getReports()
+makeFacilityDirectories( wastewaterPumpStations, sectionDirectory + "\\Wastewater Pump Stations" )
+#getImprovementDrawings()
+getReports( wastewaterPumpStations )
 # delete empty subdirectories in pipeline directories
-deleteEmptyDirectories()
+#deleteEmptyDirectories()

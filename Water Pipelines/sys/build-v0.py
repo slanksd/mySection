@@ -1,8 +1,5 @@
 import os, sys, winshell, shutil
 from water_pipelines import waterPipelines
-from wastewater_pump_stations import wastewaterPumpStations
-from improvement_drawings import improvementDrawings
-from reports import reports
 
 buildDirectory = r"Y:\EPM\CondAssess\Water Pipelines"
 improvementDrawingDirectory = r"Y:\EPM\CondAssess\Improvement Drawings\By No"
@@ -39,6 +36,7 @@ def makePipelineDirectories():
 
 def getImprovementDrawings():
 	print("Updating improvement drawing shortcuts...")
+	from improvement_drawings import improvementDrawings
 	drawingsByWaterPipeline = improvementDrawings["Water Pipelines"]
 	for waterPipeline in waterPipelines:
 		waterPipelineDirectory = os.path.join( buildDirectory, waterPipeline )
@@ -69,6 +67,7 @@ def getImprovementDrawings():
 
 def getReports():
 	print("Updating report shortcuts...")
+	from reports import reports
 	for keyName in reports:
 		report = reports[ keyName ]
 		print("...for " + keyName + "...")
@@ -105,7 +104,7 @@ def deleteEmptyDirectories():
 	
 
 makePipelineDirectories()
-getImprovementDrawings()
+#getImprovementDrawings()
 getReports()
 # delete empty subdirectories in pipeline directories
 deleteEmptyDirectories()

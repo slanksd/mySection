@@ -1,0 +1,1002 @@
+Generated on 2017-12-07 11:20:38.466505
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA57+00 (1).PNG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA57+00 (2).PNG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA57+00 (3).PNG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA57+00 (4).PNG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA57+00 (5).PNG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA57+00 (6).PNG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA72+60 (1).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA72+60 (2).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA72+60 (3).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA72+60 (4).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-Bypass Repair B&V\Bypass_STA72+60 (5).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-SV1 Repair B&V\SV1 STA 168+57 (2).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-SV1 Repair B&V\SV1 STA 171+81 (2).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-SV1 Repair B&V\SV1 STA 176+93 (2).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-SV1 Repair B&V\SV1_STA8+60 (1).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-SV1 Repair B&V\SV1_STA8+60 (2).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-SV1 Repair B&V\SV1_STA10+40 (1).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-SV1 Repair B&V\SV1_STA10+40 (2).JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.00.00-SV1 Repair B&V\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.04.30-SV1 Repair B&V\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.04.30-SV1 Repair B&V\SV1 STA 168+57 (1).jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.04.30-SV1 Repair B&V\SV1 STA 171+81 (1).jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.04.30-SV1 Repair B&V\SV1 STA 176+76.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.04.30-SV1 Repair B&V\SV1 STA 176+93 (1).jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.04.30-SV1 Repair B&V\SV1 STA 200+83 (1).jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.04.30-SV1 Repair B&V\SV1 STA 200+83.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.03-SV1 Repair B&V\SV1 STA 200+83 (6).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.03-SV1 Repair B&V\SV1 STA 200+83 (2).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.03-SV1 Repair B&V\SV1 STA 200+83 (3).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.03-SV1 Repair B&V\SV1 STA 200+83 (4).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.03-SV1 Repair B&V\SV1 STA 200+83 (5).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.03-SV1 Repair B&V\SV1 STA 200+83 (7).JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.03-SV1 Repair B&V\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.03-SV2 Repair B&V\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.13-BO Repair B&V\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.13-BO Repair B&V\IMG_2479.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.13-BO Repair B&V\IMG_2480.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.13-BO Repair B&V\IMG_2481.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.13-BO Repair B&V\IMG_2482.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.13-BO Repair B&V\IMG_2484.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.13-BO Repair B&V\IMG_2485.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.13-BO Repair B&V\IMG_2488.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.13-BO Repair B&V\IMG_2489.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.14-BO Repair Arrieta\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair Arrieta\IMG_2302.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair Arrieta\IMG_2293.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair Arrieta\IMG_2294.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair Arrieta\IMG_2295.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair Arrieta\IMG_2296.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair Arrieta\IMG_2297.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair Arrieta\IMG_2299.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair Arrieta\IMG_2300.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair Arrieta\IMG_2301.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair Arrieta\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair B&V\165+71 Outlet Repair.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair B&V\165+71 Vault Lid Repair2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair B&V\165+71 Vault Lid Repair.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair B&V\165+71 Wax Tape Coating2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair B&V\165+71 Riser Assembled.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair B&V\165+71 Wax Tape Coating1.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.05.16-BO Repair B&V\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2846.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2847.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2848.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2852.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2854.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2856.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2857.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2858.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2859.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2860.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\IMG_2861.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2016.06.21-MFa\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.06\group5-site1-p1.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.06\group5-site1-p2.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.06\group5-site1-p3.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.06\group5-site2-p1.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.06\group5-site2-p2.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.06\group5-site4-p1.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.06\group5-site4-p2.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.06\group5-site4-p3.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.06\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.08\group5-site3-p1.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.08\group5-site3-p2.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.08\group5-site3-p3.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.08\group5-site5-p1.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.08\group5-site5-p2.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.08\group5-site5-p3.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.08\group5-site5-p4.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.08\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.02.21\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.03.01\Elanus Canyon.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.03.01\Erosion 1.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.03.01\Erosion.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.03.01\Percolation 1.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.03.01\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.03.08\20170308_140602.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.03.08\20170308_140605.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.03.08\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 1 - 1.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 1 - 2.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 1 - 3.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 1 - 4.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 1 - 5.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 1 - 6.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 2 - 1.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 2 - 2.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 2 - 3.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 2 - 4.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 2 - 5.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 2 - 6.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 3 - 1.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 3 - 2.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 3 - 3.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 3 - 4.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 4 - 1.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 4 - 2.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 4 - 3.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 4 - 4.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 5 - 1.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 5 - 2.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 5 - 3.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Site 5 - 4.jpg
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.03\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.18\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.20\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.24\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\SLank\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_0.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_1.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_2.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_3.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_4.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_5.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_6.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_0.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_1.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_2.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_3.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_4.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_5.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\sites 9 & 30_0.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\sites 9 & 30_1.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\sites 9 & 30_2.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\sites 9 & 30_3.JPG; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170807\20170807_101925.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170807\20170807_102344.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170807\20170807_102340.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170807\20170807_101945.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170807\20170807_101933.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170807\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.03-FBl\13002 Walking Path Pl.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.03-FBl\14210 Carmel Valley Rd (2).JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.03-FBl\14210 Carmel Valley Rd.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.03-FBl\Ashely Falls Dr. & Delmar Heights Rd. (2).JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.03-FBl\Ashley Falls Dr. & Delmar Heights Rd..JPG; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.03-FBl\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.03-FBl\Via Cortina & Carmel Valley Rd. Traffic Control.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.03-FBl\Via Cortina & Carmel Valley Rd..JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.03-FBl\Via Cortina after pumping water from vault.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.03-FBl\Via Cortina Flooded Vault.JPG; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.04-SLa\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.10-SLa\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.11-SLa\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.15-SLa\20170515_100117.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.15-SLa\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.06.28-SMa\IMG_20170628_124013001.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.06.28-SMa\IMG_20170628_100706430_HDR.JPG; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.06.28-SMa\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.06.29-SMa\IMG_20170629_130957429.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.06.29-SMa\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.07.30-SLa\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.07.30-SLa\20170730_103038.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.07.30-SLa\20170730_110741.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.07.30-SLa\20170730_111901.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.07.30-SLa\My Movie.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.09.11-B&V\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_082944.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_083004.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_083405.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_083712.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_083714.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_083715.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_084058.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_083752.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_084501.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_084520.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_084807.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\20161031_085340.jpg; <class 'TypeError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\Mission Gorge Sewer Replacement\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2011.04.14\DSCN0983.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2011.04.14\DSCN0965.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2011.04.14\DSCN0966.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2011.04.14\DSCN0969.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2011.04.14\DSCN0970.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2011.04.14\DSCN0971.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2011.04.14\DSCN0973.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2011.04.14\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_091403.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_091444.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_091526.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_091548.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_092159.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_092230.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_094748.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_094752.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_101105.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_101122.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_101520.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_101527.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_101535.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_102559.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_102607.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_102733.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_103546.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_103752.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_104412.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_104510.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_104921.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_104943.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_105156.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_105525.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_105800.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_110307.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_110342.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_110352.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_111726.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_111840.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_113039.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_113118.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_115145.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_115156.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_120004.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_120155.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_120440.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_121825.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_123706.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_123710.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_123817.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_124535.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_124559.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_130437.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_130942.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_144828.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_144834.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_145250.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_150048.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_150104.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_151435.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_151442.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_151643.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_152001.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_152102.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_154715.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_154723.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_155152.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_155158.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_160116.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20151216\20151216_160839.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20151216\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\Tecolote Creek Soil Sampling Asphalt Repair\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1972.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1910.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1911.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1912.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1913.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1914.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1915.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1916.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1917.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1918.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1919.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1920.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1921.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1922.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1923.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1924.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1926.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1927.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1928.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1929.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1930.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1931.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1932.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1933.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1934.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1935.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1936.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1937.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1938.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1939.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1940.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1941.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1942.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1943.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1944.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1945.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1946.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1947.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1949.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1950.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1951.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1952.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1953.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1954.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1955.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1956.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1957.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1958.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1959.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1960.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1961.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1962.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1963.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1964.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1965.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1966.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1967.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1968.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1969.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1970.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\DSCN1971.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2014.04.17\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1748.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1749.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1750.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1751.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1752.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1753.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1754.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1755.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1756.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1757.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1758.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1759.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1760.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1761.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1762.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1763.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1764.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1765.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1766.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1767.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1768.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1769.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1770.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1771.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1772.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1773.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1774.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1775.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1776.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1777.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1778.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1779.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1780.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1781.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1782.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1783.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1784.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1785.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1786.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1787.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1788.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1789.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1790.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1791.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1792.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1793.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1794.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1795.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1796.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1797.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1798.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1799.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1800.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1805.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1806.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1807.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1808.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1809.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1810.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1811.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1812.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1813.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1814.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1815.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1816.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1817.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1818.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1819.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1820.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1821.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1822.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1823.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1824.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1825.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1826.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1827.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1828.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1829.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1830.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1831.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1832.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1833.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1834.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1835.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1836.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1837.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1838.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1839.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1840.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1841.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1842.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1843.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1844.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1845.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1846.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1847.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1848.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1849.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1850.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1851.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1852.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1853.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1854.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1855.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1856.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1857.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1858.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1859.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1860.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1861.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1862.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1863.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1864.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1865.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1866.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1867.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1868.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1869.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1870.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1871.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1872.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1873.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1874.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1875.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1876.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1877.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1878.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1879.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1880.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\DSCN1881.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.13\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1746.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1707.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1708.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1709.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1710.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1711.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1712.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1713.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1714.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1715.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1716.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1717.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1718.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1719.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1720.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1721.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1722.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1723.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1724.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1725.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1726.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1727.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1728.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1729.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1730.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1731.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1732.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1733.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1734.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1735.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1736.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1737.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1738.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1739.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1740.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1741.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1742.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1743.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1744.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\DSCN1745.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2014.03.12\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_103630.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_103646.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_103759.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_103915.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_104026.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_104210.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_104224.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_104245.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_104356_001.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_104506_001.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_104907.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_104930.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_104949.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_111003.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_111006.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_111041.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_111115.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_111624.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_111723.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_114449.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_114503.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_114517.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_114548.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_114608.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_114620.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_114858.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_115022.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_115044.jpg
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20160121\20160121_115049.jpg
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20160121\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170508\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_092717.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_093413.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_093602.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_095504.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_100230.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_100236.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_101839.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_101920.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_101939.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_101943.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_102315.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_102317.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_105957.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_110002.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_112332.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_112341.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_112359.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_112403.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_120557.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_120559.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_121839.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_122104.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_122858.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_122946.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_122949.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_125020.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_132532.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_132718.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_132728.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_132731.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_085800.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_090458.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_090621.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20150811\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_085432.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_085545.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_085553.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_085603.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_085606.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_085836.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_085912.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_085921.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_090201.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_090759.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_090808.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_090816.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_091403.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150811\20150811_091410.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20160901\20160901_101801.mp4
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160901\20160901_110612.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20160901\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160323\20160323_091357.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160323\20160323_091410.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160323\20160323_095842.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160323\20160323_095845.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20160323\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_084624.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_084627.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_084639.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_084650.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_084725.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_084732.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_084811.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_084815.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_085325.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_085332.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_085337.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_090836.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_090840.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_090843.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_090856.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_090923.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_091113.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_091118.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_091144.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_091157.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_091328.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_091335.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_091347.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20160324\20160324_091943.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20160324\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\20170424_145904.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\20170424_145920.jpg; <class 'KeyError'>
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Clairemont Cross Tie (2).JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Clairemont Cross Tie.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Clairemont Crosstie.JPG
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Golf Course1.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Golf Course2.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Golf Course3.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Golf Course4.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 23 - Entrance.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 19 - config.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 19 ALT - Vertical OK.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 19 ALT.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 23 - ARV.jpg; <class 'KeyError'>
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 23 - Entrance Vertical OK.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 23 - MH.JPG
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 23 - Terrain.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 26 - ARV above ground.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 26 - Deep and thick lid.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 26 - Distance to driveway 35 feet.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 29 - National U.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 26 - Looking toward street.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 26 - Pumping.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 29 - North side of NU.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 27 - Needs adjustment to lid.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 27 - Needs coring.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 27 - Offset from manhole center.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 27 - Street view 2.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 27 - Street view.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 27.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 4 - Entrance.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 45 - Located at School.jpg; <class 'KeyError'>
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 4B - Tap.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 4B- MH Corring needed.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 4b-Tap.JPG
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Site 26 - Front Yard.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.05.00\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_100830.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_100856.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_100932.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_101326.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_112139.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_112341.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_112402.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_112404.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_112411.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_113554.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_113604.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_113607.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_113904.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_113906.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_113953.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_114002.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_114251.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_090647.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_090656.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_090829.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_090841.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_091120.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_091409.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_093734.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_093737.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_093743.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_094052.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_094603.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20150813\20150813_100732.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20150813\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120111\IMGP2122.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120111\SV1-11112-1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120111\SV1-1112-3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120111\SV1-11112-2.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20120111\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120117\IMGP2126.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120117\IMGP2123.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120117\SV1-11712-1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120117\IMGP2124.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120117\IMGP2125.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20120117\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120120\SV1-120-1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20120120\SV1-120-2.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20120120\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170720\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170911\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170808\20170808_102742.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170808\20170808_103002.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170808\20170808_102748.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170808\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20130212\300+00 Before Construction #3.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20130212\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20171011\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170801\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170719A\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170731\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171009\20171009_093714.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20171009\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170728\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170724\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170717\20170717_101645.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170717\20170717_101704.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170717\20170717_101647.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170717\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170719B\20170719_145224.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170719B\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170718\20170718_114412.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170718\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170621\20170621_105637.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170621\20170621_111128.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170621\20170621_105640.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170621\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170712\20170712_090146.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170712\20170712_090149.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170712\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170710\20170710_084252.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170710\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170626\20170626_081153.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170626\20170626_123538.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170626\20170626_123528.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170626\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171013\20171013_091145.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20171013\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170620\20170620_123817.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170620\20170620_123821.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170620\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170613\20170613_125109.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170613\20170613_131702.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170613\20170613_125112.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170613\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170613\20170613_132118.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170613\20170613_125627.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170613\20170613_125742.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170613\20170613_131735.mp4
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170608\20170608_102155.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170608\20170608_114149.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170608\20170608_114138.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170608\20170608_114127.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170608\20170608_114118.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170608\20170608_102233.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170608\20170608_102227.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170608\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170606\20170606_092955.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170606\20170606_093002.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170606\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170606\20170606_093003.mp4
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_051613.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_073145.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_073142.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_072337.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_070452.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_064324.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_064320.jpg; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_052501.jpg; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_073911.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_045700.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_052525.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_064326.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_070328.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_070825.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_071143.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_071904.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_072130.mp4
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170605\20170605_073615.mp4
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170719\Site 2 - Coring.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170719\Site 2-CCTV set up.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20170719\Site 2 - Excavation.jpg; <class 'TypeError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20170719\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171102\IMG_1097.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171102\IMG_1098.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171102\IMG_1099.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171102\IMG_1101.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171102\IMG_1102.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171102\IMG_1103.JPG; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20171102\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171113\20171113_235032_resized.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171113\20171113_235021_resized.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171113\20171113_234956_resized.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171113\20171113_234010_resized.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171113\20171113_234001_resized.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171113\20171113_233947_resized.jpg; <class 'TypeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20171113\20171113_224244_002_resized.jpg; <class 'TypeError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20171113\Thumbs.db
+OS error: cannot identify image file '\\\\aladdin2\\epm\\CondAssess\\Photos\\Files\\20171113\\EOT.msg'
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\971+00 After Coating #5.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\971+00 After Coating #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\971+00 After Coating #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\971+00 After Coating #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\971+00 After Coating #4.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131115\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\994+10 During Construction #11.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\994+10 During Construction #7.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\994+10 During Construction #8.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\994+10 During Construction #9.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\994+10 During Construction #10.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 After Construction #9.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 After Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 After Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 After Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 After Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 After Construction #5.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 After Construction #6.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 After Construction #7.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 After Construction #8.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 Before Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 Before Construction #5.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 Before Construction #6.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131115\998+50 Before Construction #7.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131125\976+50 After Construction.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131125\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131125\1069+00 After Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131125\1069+00 After Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131125\90+00 After Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131125\143+67 After Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131125\143+67 After Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131125\241+68 After Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131125\396+45 After Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131022\971+00 Before Coating #5.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131022\971+00 Before Coating #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131022\971+00 Before Coating #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131022\971+00 Before Coating #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131022\971+00 Before Coating #4.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131022\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131023\971+00 Before Coating #6.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131023\971+00 During Coating #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131023\971+00 During Coating #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131023\971+00 During Coating #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131023\971+00 During Coating #4.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131023\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131015\976+50 Before Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131015\976+50 Before Construction #2.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131015\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131015\1069+00 During Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131015\1069+00 Before Construction #1 Vault Lid After Dirt Removed.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131015\1069+00 During Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131015\1069+00 During Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131113\998+50 Before Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131113\998+50 Before Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131113\998+50 Before Construction #3.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131113\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131113\90+00 After Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131113\90+00 During Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131113\143+67 After Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131113\241+68 After Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131113\241+68 After Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131113\241+68 After Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131101\976+50 During Construction.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131101\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131101\90+00 During Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131101\90+00 During Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131119\994+10 After Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131119\994+10 After Construction #1.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131119\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131119\994+10 During Construction #12.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131119\994+10 During Construction #13.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131025\994+10 Before Construction #1.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131025\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131025\98+20 Before Construction.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131108\994+10 During Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131108\994+10 Before Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131108\994+10 During Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131108\994+10 During Construction #2.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131108\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131109\994+10 During Construction #6.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131109\994+10 During Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131109\994+10 During Construction #5.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131109\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131024\998+50 During Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131024\998+50 During Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131024\998+50 During Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131024\998+50 During Construction #3.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131024\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20130918\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131028\1069+00 During Construction #11.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131028\1069+00 During Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131028\1069+00 During Construction #5.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131028\1069+00 During Construction #6.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131028\1069+00 During Construction #7.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131028\1069+00 During Construction #8.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131028\1069+00 During Construction #9.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131028\1069+00 During Construction #10.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131028\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131028\143+67 During Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 After Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 During Construction #12.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 During Construction #13.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 During Construction #14.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 During Construction #15.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 During Construction #16.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 During Construction #17.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 During Construction #18.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 During Construction #19.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 During Construction #20.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1069+00 During Construction #21.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131112\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\1286+90 After Construction.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\143+67 During Construction #5.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131112\143+67 During Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131021\1286+90 During Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131021\1286+90 Before Construction.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131021\1286+90 During Construction #1.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131021\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131104\1286+90 During Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131104\1286+90 During Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131104\1286+90 During Construction #5.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131104\1286+90 During Construction #6.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131104\1286+90 During Construction #7.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131104\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131104\49+30 After Construction.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131104\49+30 During Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131104\49+30 During Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131107\30+98 During Construction#2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131107\30+98 After Construction #1.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131107\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131107\72+52 After Construction.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131107\98+20 During Construction.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131107\98+20 After Construction.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131107\160+15 After Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131107\160+15 After Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131107\160+15 During Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131107\280+97 During Construction.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131107\280+97 After Construction.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131029\30+98 During Construction #1.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131029\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131029\72+52 During Construction.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131014\30+98 Before Construction.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131014\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20130211\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20130910\160+15 Before Construction #1.BMP; <class 'AttributeError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20130910\160+15 Before Construction #2.BMP; <class 'AttributeError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20130910\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\20130910\280+97 Before Construction.BMP; <class 'AttributeError'>
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131018\160+15 During Construction #1.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131018\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131030\160+15 During Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131030\160+15 During Construction #2.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131030\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131016\49+30 During Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131016\49+30 Before Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131016\49+30 Before Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131016\49+30 During Construction #1.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131016\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131105\143+67 During Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131105\143+67 During Construction #2.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131105\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131105\300+00 After Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131105\300+00 After Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\241+68 During Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\241+68 Before Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\241+68 Before Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\241+68 Before Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\241+68 During Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\241+68 Before Construction #4.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131017\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\300+00 During Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\300+00 Before Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\300+00 During Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\396+45 During Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\396+45 During Construction #1.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131017\396+45 During Construction #2.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131031\241+68 During Construction #3.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131031\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131031\300+00 During Construction #6.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131031\300+00 During Construction #3.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131031\300+00 During Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131031\300+00 During Construction #5.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131106\396+45 During Construction #8.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131106\396+45 During Construction #4.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131106\396+45 During Construction #5.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131106\396+45 During Construction #6.JPG
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131106\396+45 During Construction #7.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131106\Thumbs.db
+Dictionary key 34853 not found for: \\aladdin2\epm\CondAssess\Photos\Files\20131118\396+45 During Construction #9.JPG
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\20131118\Thumbs.db
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\SLank\Thumbs.db
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_0.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_1.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_2.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_3.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_4.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_5.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 17 (Aero & I-15)_6.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_0.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_1.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_2.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_3.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_4.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\site 40_5.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\sites 9 & 30_0.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\sites 9 & 30_1.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\sites 9 & 30_2.JPG; <class 'KeyError'>
+Unexpected error; file: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\sites 9 & 30_3.JPG; <class 'KeyError'>
+Ignored: \\aladdin2\epm\CondAssess\Photos\Files\2017.04.26\TLavan\Thumbs.db

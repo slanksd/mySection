@@ -5,26 +5,29 @@ import datetime
 import pprint
 import PIL.Image
 
+PHOTOS_DIRECTORY = r"\\aladdin2\epm\CondAssess\Photos\Files"
+
 strKml = ""
 strLog = "Generated on " + str( datetime.datetime.now() ) + "\n"
 
-with io.open( "kmlTemplateHead.kml", "r", encoding="utf-8"  ) as file:
+with io.open( r"\\aladdin2\epm\CondAssess\Photos\utils\kmlTemplateHead.kml", "r", encoding="utf-8"  ) as file:
 	strKml = file.read()
 
 #for root, dirs, files in os.walk( "..\\Files\\2017.05.04-SLa" ):
 directories = []
 
 print("Scanning directories...")
-for root, dirs, files in os.walk( "..\\Files" ):
+for root, dirs, files in os.walk( PHOTOS_DIRECTORY ):
 	for dirName in dirs:
 		directories.append( [ root + "\\" + dirName , dirName ] )
-print("Directory scan complete.")
 
-print("Generating kml code.")
+print("Generating kml code...")
 for directory in directories:
 	print("Processing directory: " + directory[0] )
 	for root, dirs, files in os.walk( directory[0] ):
 		strKml += "<Folder><name>" + directory[1].replace("&","&amp;") + "</name>"
+		strKml += "<visibility>0</visibility>"
+		strKml += "<open>0</open>"
 		for name in files:
 			if name.endswith( ".db" ) \
 			or name.endswith( ".mp4" ) \
@@ -57,7 +60,8 @@ for directory in directories:
 						strKml += \
 							"<Placemark>" + \
 								"<name>" + name + "</name>" + \
-								"<description><![CDATA[<img style=\"max-width:500px;\" src=\"" + root + "\\" +  name + "\">]]></description>" + \
+								"<visibility>0</visibility>" + \
+								"<description><![CDATA[<img style=\"max-width:500px;\" src=\"" + PHOTOS_DIRECTORY + "\\" +  name + "\">]]></description>" + \
 								"<LookAt>" + \
 									"<longitude>" + strEasting + "</longitude>" + \
 									"<latitude>" + strNorthing + "</latitude>" + \
@@ -84,14 +88,14 @@ for directory in directories:
 				    strLog += "Unexpected error; file: " + root + "\\" +  name + "; " + str( sys.exc_info()[0] ) + "\n"
 		strKml += "</Folder>"
 
-print("Getting kml file footer code.")
-with io.open( "kmlTemplateFooter.kml", "r", encoding="utf-8" ) as file:
+print("Getting kml file footer code...")
+with io.open( r"\\aladdin2\epm\CondAssess\Photos\utils\kmlTemplateFooter.kml", "r", encoding="utf-8" ) as file:
 	strKml += file.read()
 
-print("Writing to kml file.")
-with io.open( "makePhotoKml.kml", "w", encoding="utf-8" ) as file:
+print("Writing to kml file...")
+with io.open( r"\\aladdin2\epm\CondAssess\Photos\utils\photos.kml", "w", encoding="utf-8" ) as file:
 	file.write( strKml )
 
-print("Writing log file.")
-with io.open( "makePhotoKml.log.txt", "w", encoding="utf-8" ) as file:
+print("Writing log file...")
+with io.open( r"\\aladdin2\epm\CondAssess\Photos\utils\makePhotoKml.log.txt", "w", encoding="utf-8" ) as file:
 	file.write( strLog )
