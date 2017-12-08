@@ -24,6 +24,9 @@
 Equipment/*
 !Equipment/Equipment.xlsx
 
+## Leaks/Leaks.xlsx
+!Leaks/
+
 ## Library/Library.xlsx
 ## Library/ReadMe.txt
 !Library/
